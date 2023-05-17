@@ -23,4 +23,5 @@ class Person extends Animal{
 
 }
 
-//SEGUIR VIDEO DESDE 1 HORA 40 MIN. 
+let persona = new Person("Cacho",55,88);
+persona.gruñe();
