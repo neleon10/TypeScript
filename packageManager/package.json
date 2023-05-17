@@ -1,0 +1,9 @@
+{
+    "name": "demo-npm",
+    "version": "0.0.1",
+    "main": "main.js",
+    "dependencies": {
+        "colors":"^1.0.0" 
+    }
+
+}
