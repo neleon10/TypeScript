@@ -8,3 +8,6 @@ export {
     area,
     circumference
 }
+export default function () {
+    return "Hola, como te va."
+}
